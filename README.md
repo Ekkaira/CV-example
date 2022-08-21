@@ -1,2 +1,2 @@
 # CV-example
-Simple CV
+https://ekkaira.github.io/CV-example/
